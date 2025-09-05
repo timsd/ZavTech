@@ -3,7 +3,7 @@ Allow: /
 Disallow: /dist/
 Disallow: /node_modules/
 
-Sitemap: https://zavtech.com/sitemap.xml
+Sitemap: https://tech.zavolah.com/sitemap.xml
 
 User-agent: Googlebot
 Allow: /
